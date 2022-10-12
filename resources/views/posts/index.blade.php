@@ -1,6 +1,6 @@
 <x-layout>
 
-    @include ('_posts-header')
+    @include ('posts._header')
 
     <main class="max-w-6xl mx-auto mt-6 lg:mt-20 space-y-6">
         {{-- //게시글이 하나라도 있다면 아래 내용 실행 --}}
